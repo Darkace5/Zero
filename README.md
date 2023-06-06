@@ -1,2 +1,2 @@
-# Zero
-I am now an ALX student and a full stack engineer 
+#ALX pre course 
+I am now an ALX student this is my first repository as a full-stack engineer 
